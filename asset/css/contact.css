@@ -1,5 +1,7 @@
 body {
     background-color: #e3e7eb;
+    width: auto;
+    height: 1000px;
 }
 h1 {
     margin: 50px auto;
@@ -25,6 +27,7 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: bold;
+    margin-left: 400px;
 }
 .navbar {
     background-color: #f4f3f3;
